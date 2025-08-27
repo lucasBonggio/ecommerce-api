@@ -1,0 +1,26 @@
+# Maven target folder
+/target/
+
+# Eclipse / IntelliJ / VSCode settings
+/.idea/
+/*.iml
+/.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Application properties (local config, no subir credenciales)
+application.properties
+
+# Otros archivos temporales de Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Dependencias descargadas por Maven (opcional)
+/.mvn/
